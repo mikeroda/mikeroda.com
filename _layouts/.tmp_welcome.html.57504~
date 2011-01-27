@@ -1,0 +1,63 @@
+---
+layout: base
+body_id: interior-page
+---
+
+<div id="content_wrap" class="content_bg_nosidebar_blue">
+  <div class="corners_bottom_nosidebar_blue"></div>
+  <div class="corners_top_nosidebar_blue"></div>
+        
+  <div class="clear"></div>
+
+  <div class="aboutme">
+    <h2>About Me</h2>
+
+      {{ content }}
+
+  </div>
+
+  <div class="sidebar_box">
+    <h2>Contact</h2>
+    <br><br>
+    <img src="images/email-icon.png" alt="e-mail"> &nbsp;<strong>email:</strong> <a href="mailto:mike@mike-roda.com">mike@mike-roda.com</a>
+	<br/><br/>
+    <img src="images/skype-icon.png" alt="skype"> &nbsp;<strong>skype: </strong>mikeroda <img src="images/video-icon.png" alt="video"></p>
+  </div>
+  <div class="clear"></div>
+        
+  </div>
+   
+  <div id="footer_wrap">
+    <div id="top_footer" class="content_bg_nosidebar">
+      <div class="corners_bottom_nosidebar"></div>
+      <div class="corners_top_nosidebar"></div>
+            
+      <div class="clear"></div>
+      <div id="twitter"> 
+        <table>
+          <tbody>
+            <tr><td>
+              <h3><strong>Latest Tweet</strong></h3>
+              <p>I am going to FOSS Fair 2011: <a href="https://opensource.ncsu.edu/FossFair2011">
+              https://opensource.ncsu.edu/FossFair2011</p><br/>
+            </td></tr>
+			<tr>
+              <td valign="center" class="follow_me"><a href="http://twitter.com/#!/mikeroda"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-c.png" alt="Follow me on Twitter"></a></td>
+            </tr>
+		  </tbody>
+	    </table>
+      </div>
+    
+      <div id="connections">
+        <h3><strong>Connections</strong></h3>
+        <p>You can also contact me through LinkedIn.<br/><br/>
+				
+        <a href="http://www.linkedin.com/pub/mike-roda/1/ab/17a" style="text-decoration:none;">
+		  <span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="http://www.linkedin.com/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Mike Roda's LinkedIn profile" style="vertical-align:middle" border="0">View Mike Roda's profile</span>
+		</a>
+      </div>
+        	
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>

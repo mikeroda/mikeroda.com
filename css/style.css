@@ -1,0 +1,236 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 100%;
+	font-family: inherit;
+}
+
+#conash3D0 {height:0px; top:-1px;}
+	
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+	
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:13px;
+	background:#f2f2f2 top repeat-x url('../images/bg.jpg');
+	color:#FFFFFF;
+	margin:0;
+	padding:0;
+}
+
+a{
+	color:#F0FF00;
+	text-decoration:none;
+}
+a:hover{
+	color: #000000;
+    text-decoration: underline;
+}
+
+h1{
+	color:#383838;
+	font-size:28px;
+	}
+h2{
+	font-size: 1.2em; font-weight:normal; color:#000000;
+}
+h3{
+	color:#383838;
+	font-size:14px;
+}
+b, strong{
+	font-weight:bold;}
+p{
+	padding:15px 0px 15px 0px;
+	line-height:21px;
+}
+.fleft{ float:left;}
+.fright{ float:right;}
+.alignright{
+	float:right;
+	margin: 3px 0px 10px 10px;
+
+}
+.alignleft{
+	float:left;
+	margin: 3px 10px 10px 0px;
+}
+	
+.clear{
+	position:relative;
+	display:block;
+	width:930px;
+	height:10px;
+	clear:both;
+}
+
+#main-container{
+	width:962px;
+	height:400px;
+	margin:0px auto 0px auto;
+	display:block;
+}
+
+#header{
+	position:relative;
+	display:block;
+	width:962px;
+	height:85px;
+	margin:0px auto;
+	background:top center no-repeat url('../images/header.jpg');
+}
+
+#content_wrap{
+	position:relative;
+	display:block;
+	width:930px;
+	padding:20px 1px 20px 31px;
+}
+#content{
+	display:block;
+	width:560px;
+	float:left;
+}
+#content img{
+	border:4px #CCC solid;
+}
+	
+.content_bg_nosidebar{
+	background: repeat-y url('../images/content_bg_white.jpg');
+}
+.content_bg_nosidebar_blue{
+	background: repeat-y url('../images/content_bg_blue.jpg');
+	
+}
+.corners_top_nosidebar_blue{
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:block;
+	width:962px;
+	height:10px;
+	background:#F2F2F2 center bottom  no-repeat url('../images/top_corners2.jpg'); 
+}
+.corners_top_nosidebar{
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:block;
+	width:962px;
+	height:10px;
+	background:#F2F2F2 center bottom  no-repeat url('../images/top_corners.jpg'); 
+}
+.corners_bottom_nosidebar{
+	position:absolute;
+	bottom:-1px;
+	left:0px;
+	display:block;
+	width:962px;
+	height:11px;
+	background:#F2F2F2 center  top no-repeat url('../images/bottom_corners.jpg');
+}
+
+.corners_bottom_nosidebar_blue{
+	position:absolute;
+	bottom:-1px;
+	left:0px;
+	display:block;
+	width:962px;
+	height:11px;
+	background:#F2F2F2 center  top no-repeat url('../images/bottom_corners2.jpg');
+}
+
+.content_bg_sidebar{
+	background: repeat-y url('../images/content_bg_sidebar.jpg');
+	
+}
+
+.contact{
+	display: inline;
+	width:280px;
+	float:left;
+	margin-right:30px;
+}
+.top_margin{
+	margin-top:50px;
+}
+.contact h2{
+	color:#FFFFFF;
+	font-size:21px;
+	padding-bottom:10px;
+	border-bottom:1px #CCC solid;
+}
+
+.aboutme{
+	display: inline;
+	width:550px;
+	float:left;
+	margin-right:30px;
+}
+.top_margin{
+	margin-top:50px;
+}
+.aboutme h2{
+	color:#FFFFFF;
+	font-size:21px;
+	padding-bottom:10px;
+	border-bottom:1px #CCC solid;
+}
+.aboutme img.inline-left {
+  float: left;
+  margin: .3em 1em 0 0;
+}
+
+#footer_wrap{
+	margin-top:20px;
+	position:relative;
+	display:block;
+	width:962px;
+}
+#top_footer{
+	position:relative;
+	display:block;
+	width:930px;
+	padding:20px 1px 20px 31px;
+}
+#twitter{
+	position:relative;
+	display: inline;
+	width:419px;
+	margin-right:0px;
+	float:left;
+	padding-right:30px;
+	border-right:1px #CCC solid;
+	color:#707070;
+}
+#twitter table tr td{
+	vertical-align:top;
+}
+#twitter a{
+	color:#002EFF;
+	text-decoration:none;
+}
+#connections{
+	position:relative;
+	display: inline;
+	width:420px;
+	margin:0px 30px 0px 0px;
+	padding-left:30px;
+	float:right;
+	color:#707070;
+}
+
