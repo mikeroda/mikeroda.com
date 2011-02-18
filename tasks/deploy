@@ -6,4 +6,4 @@ function tag_deployment {
   git tag -a -m "Tagging deployment at $CURRENT_TIMESTAMP" $TAG_NAME
 }
 
-jekyll && sitecopy --update mike-roda.com && tag_deployment
+jekyll && sitecopy --update mikeroda.com && tag_deployment

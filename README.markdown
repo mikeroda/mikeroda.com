@@ -1,6 +1,6 @@
 # About
 
-This is the source for Mike Roda's [website](http://www.mike-roda.com "http://www.mike-roda.com").  It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) into a static site whenever I push this repository to GitHub.
+This is the source for Mike Roda's [website](http://www.mikeroda.com "http://www.mikeroda.com").  It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) into a static site whenever I push this repository to GitHub.
 
 # License
 
