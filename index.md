@@ -1,30 +1,79 @@
 ---
 permalink: index.html
-layout: welcome
+layout: base
 title: The online home of Mike Roda
 ---
 
-<p><img src="images/mikeroda.jpg" class="inline-left" />
-  
-Hi. I am a Application Architect at <a href="http://www.verizon.com">Verizon</a>, 
-leading software development projects and designing systems for the company's wireline 
-network systems.
+<font style="font-family: cursive; font-size: medium; color: white;">Recent events, thoughts, and interests...</font>
 
-<p>I have always been interested in computers and technology, having started programming
-on a <a href="http://en.wikipedia.org/wiki/Commodore_64">Commodore 64</a> - these days I 
-prefer to be on a Mac but will accept any flavor of UNIX. In Rochester I was a very early 
-adopter in digital photography, a hobby that continues today. I have also been interested 
-in flight simulation for a long time, having spent a little too much time as a virtual air 
-traffic controller on the <a href="http://www.vatsim.net">VATSIM</a> network, at least 
-according to my wife.
+<table width="100%" cellspacing="10" bgcolor="white">
+  <tr>
+	<td align="left">
+      <table cellpadding="5">
+        <tbody>
+       	  <tr>
+          	<td width="278" height="194" align="right" valign="top" style="background-image: url('images/sevylor.jpg'); background-repeat: no-repeat; background-position: center;">
+			  <font style="font-family: Arial; font-size:small; color: white;">Went from 6000lb cruiser to 10' inflatable, but this thing I can get into my car</font>
+			</td>
+          	<td width="192" height="194" align="right" valign="top" style="background-image: url('images/chess.jpg'); background-repeat: no-repeat; background-position: center;">
+			  <font style="font-family: Arial; font-size:small; color: black;">Artificial Intelligence</font>
+			</td>
+          	<td width="307" height="194" align="left" valign="top" style="background-image: url('images/starprincess.jpg'); background-repeat: no-repeat; background-position: center;">
+			  <font color="white">Star Princess</font>
+			  <font style="font-family: Arial; font-size: smaller; color: white;"><br/>&nbsp;May 14-21, Vancouver -> Alaska -> Seattle</font>
+			</td>
+		  </tr>
+		  </tr>
+		</tbody>
+	  </table>
+    </td>
+  </tr>
+  <tr>
+  	<td>
+      <table cellpadding="5">
+        <tbody>
+       	  <tr>
+          	<td width="160" height="194" align="center" valign="center" bgcolor="#CCCCCC">
+			  <font style="font-family: Arial; font-size: medium; color: gray">Recent books</font>
+			</td>
+          	<td width="150" height="194" align="left" valign="top" style="background-image: url('images/Aima_3rd_editon_cover.jpg'); background-repeat: no-repeat; background-position: center;">
+			</td>
+          	<td width="162" height="194" align="right" valign="top" style="background-image: url('images/rails.jpg'); background-repeat: no-repeat; background-position: center;">
+			</td>
+          	<td width="148" height="194" align="right" valign="top" style="background-image: url('images/9744_MockupCover_RAW_0.jpg'); background-repeat: no-repeat; background-position: center;">
+			</td>
+          	<td width="129" height="194" align="left" valign="top" style="background-image: url('images/hungergames.jpg'); background-repeat: no-repeat; background-position: center;">
+			</td>
+		  </tr>
+		  </tr>
+		</tbody>
+	  </table>
+    </td>
+  </tr>
+  <tr>
+  	<td>
+      <table cellpadding="5">
+        <tbody>
+       	  <tr>
+          	<td width="344" height="250" align="center" valign="top" style="background-image: url('images/cct.jpg'); background-repeat: no-repeat; background-position: center;">
+			  <font style="font-family: Arial; font-size:small; color: black;">Cloud Computing</font>
+			</td>
+          	<td width="250" height="250" align="right" valign="top" >
+      <table cellpadding="5">
+        <tbody>
+       	  <tr>
+          	<td width="120" height="120" align="right" valign="top" style="background-image: url('images/ncstate.jpg'); background-repeat: no-repeat; background-position: center;">
+			</td>
+          	<td width="120" height="120" align="right" valign="top">&nbsp;
+			</td>
+		  </tr>
+		</tbody>
+	  </table>
 
-<p>These days much of my free time is spent studying Computer Science at 
-<a href="http://www.ncsu.edu">North Carolina State University</a>. As of Dec 2011 I am 
-60% done, expecting to graduate with a Masters degree in May 2013. I hold an 
-undergraduate degree in Computer Science from the State University of New York, college at 
-<a href="http://www.brockport.edu">Brockport</a>, plus a degree in Computer Technology 
-and a certificate in Electronic Technology from
-<a href="http://www.monroecc.edu">Monroe Community College</a> in Rochester, NY.</p>
-
-<p>You might see me around town in <a href="http://www.apexnc.org">Apex, North Carolina</a> 
-with my wife and two daughters.</p>
+			</td>
+		  </tr>
+		</tbody>
+	  </table>
+    </td>
+  </tr>
+</table>
